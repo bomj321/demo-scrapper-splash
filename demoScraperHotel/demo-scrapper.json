@@ -1,0 +1,81 @@
+[
+    {
+        "fecha_arrival_withoutFormat": "02112020",
+        "fecha_departure_withoutFormat": "16112020",
+        "names": "Superior con balcon ",
+        "conditions_prices": [
+            {
+                "name_rate": "TARIFA DISPONIBLE DESAYUNO INCLUIDO",
+                "features_rate": [
+                    "\nCancelación Gratis\n",
+                    "Desayuno",
+                    "Internet",
+                    "Niños de 0 a 11 años alojamiento gratuito",
+                    "Alojamiento gratuito para su perro",
+                    "Una copa de helado para los niños",
+                    "\nCancelación Gratis\n",
+                    "Bebidas nacionales ilimitadas",
+                    "Desayuno, almuerzo y cena",
+                    "Baila Ritmos Caribeños",
+                    "Charla histórica de Cartagena con David"
+                ],
+                "price_rate": "310.360,97 COP "
+            },
+            {
+                "name_rate": "CAPILLA EN VACACIONES CON TODO",
+                "features_rate": [
+                    "\nCancelación Gratis\n",
+                    "Desayuno",
+                    "Internet",
+                    "Niños de 0 a 11 años alojamiento gratuito",
+                    "Alojamiento gratuito para su perro",
+                    "Una copa de helado para los niños",
+                    "\nCancelación Gratis\n",
+                    "Bebidas nacionales ilimitadas",
+                    "Desayuno, almuerzo y cena",
+                    "Baila Ritmos Caribeños",
+                    "Charla histórica de Cartagena con David"
+                ],
+                "price_rate": "499.800,00 COP "
+            }
+        ]
+    },
+    {
+        "fecha_arrival_withoutFormat": "02112020",
+        "fecha_departure_withoutFormat": "16112020",
+        "names": "Junior Suite ",
+        "conditions_prices": [
+            {
+                "name_rate": "TARIFA DISPONIBLE DESAYUNO INCLUIDO",
+                "features_rate": [
+                    "\nCancelación Gratis\n",
+                    "Desayuno",
+                    "Internet",
+                    "Niños de 0 a 11 años alojamiento gratuito",
+                    "Alojamiento gratuito para su perro",
+                    "Una copa de helado para los niños"
+                ],
+                "price_rate": "504.590,14 COP "
+            }
+        ]
+    },
+    {
+        "fecha_arrival_withoutFormat": "02112020",
+        "fecha_departure_withoutFormat": "16112020",
+        "names": "Suite Especial",
+        "conditions_prices": [
+            {
+                "name_rate": "TARIFA DISPONIBLE DESAYUNO INCLUIDO",
+                "features_rate": [
+                    "\nCancelación Gratis\n",
+                    "Desayuno",
+                    "Internet",
+                    "Niños de 0 a 11 años alojamiento gratuito",
+                    "Alojamiento gratuito para su perro",
+                    "Una copa de helado para los niños"
+                ],
+                "price_rate": "601.451,16 COP "
+            }
+        ]
+    }
+]
